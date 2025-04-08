@@ -11,7 +11,7 @@ Este projeto é uma aplicação web desenvolvida em React.js que consome a API d
 ## 🚀 Tecnologias Utilizadas
 - React.js
 - Axios (para consumo da API)
-- Tailwind CSS e CSS puro (para estilização)
+- CSS e CSS puro (para estilização)
 
 ## 📂 Estrutura do Projeto
 ```
